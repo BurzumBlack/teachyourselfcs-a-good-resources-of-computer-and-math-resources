@@ -1,8 +1,8 @@
 # teach-yourself-cs-curriculum
 
-## I've moved!
+## 2024 update
 
-These days most of my notes can be found on [my blog](https://reversepolishnotation.com) instead of this repo. It's not archived, but will get less frequent updates.
+This has been a dormant repo for a while, most things I wrote I published on my blog that's currently down. I still think a lot of the stuff here is very valuable, hope you enjoy learning about computers!
 
 ## Intro
 
